@@ -1,0 +1,2 @@
+google-api-python-client==1.8.2
+oauth2client==4.1.3
